@@ -1,5 +1,5 @@
 /* Reset some default styles */
-body, h1, h2, h3, h4, h5, h6, p, ul {
+/* body, h1, h2, h3, h4, h5, h6, p, ul {
     margin: 0;
     padding: 0;
 }
@@ -199,7 +199,7 @@ body {
     .header-container .search-bar i {
         padding: 5px;
     }
-}
+} */
 
 /* Reset some default styles Boundary */
 
