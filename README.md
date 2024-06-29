@@ -1,3 +1,2 @@
-# Group_B-Landing_Page
-For CDTC Group B project
-Cloning a landing page
+# CDTC_MedConnect-Project
+A Team Crypto project
